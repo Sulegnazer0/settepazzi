@@ -1,0 +1,56 @@
+
+[
+  {
+    "precio": 99,
+    "id": 1,
+    "title": "Peperoni",
+   "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 100 ,
+    "id": 2,
+    "title": "Hawaiana",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 120,
+    "id": 3,
+    "title": "4 quesos",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+
+  },
+  {
+    "precio": 140,
+    "id": 4,
+    "title": "Arriera",
+   "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 180 ,
+    "id": 5,
+    "title": "Sette",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 100,
+    "id": 6,
+    "title": "Orden de ALitas Jumbo",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+
+  },
+  {
+    "precio": 30,
+    "id": 7,
+    "title": "Cerveza",
+   "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 20 ,
+    "id": 8,
+    "title": "Refresco",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  }
+  
+
+
+]
